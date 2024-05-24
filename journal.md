@@ -1,5 +1,5 @@
-Author: John SMith
-Title: Little Women
+Author: John Smith & Jane Smith
+Title: Medium Women
 
 This is the intro to my paper
 Smith, J. (2020)
