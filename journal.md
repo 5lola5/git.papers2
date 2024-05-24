@@ -7,3 +7,6 @@ Ross, B. (2020)
 
 Results
 My incredible results from my groundbreaking research
+
+Figures
+Tables from data
